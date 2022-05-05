@@ -25,7 +25,7 @@ namespace KypcachSecondVersion
             InitializeComponent();
             var assembly = Assembly.GetExecutingAssembly(); // 26-37 - читаем json, GetExecutingAssembly - чтобы доставать ресурсы. Assembly - класс, чтобы доставать ресурсы
             var resourceName = "KypcachSecondVersion.Resources.LootList.json";
-            button1.FlatAppearance.BorderSize = 1; //BorderSize - границы кнопки, 
+            button1.FlatAppearance.BorderSize = 1; //BorderSize - границы кнопки
             button1.FlatStyle = FlatStyle.Flat; //
             String jsonString;
             KeyPreview = true;
