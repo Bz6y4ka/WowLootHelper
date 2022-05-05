@@ -1,0 +1,39 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace KypcachSecondVersion
+{
+    public class LootDictionary
+    {
+        public static Dictionary<SlotType, String> SlotDictionary = new Dictionary<SlotType, String>//сопостановление енума и стринги слота(значение SlotType.Shoulder будет выводится как плечи)
+        {
+            [SlotType.None] = "Все",
+            [SlotType.Head] = "Голова",
+            [SlotType.neck] = "Шея",
+            [SlotType.Shoulder] = "Плечи",
+            [SlotType.Back] = "Спина",
+            [SlotType.Chest] = "Нагрудник",
+            [SlotType.Wrist] = "Запястья",
+            [SlotType.Hands] = "Кисти рук",
+            [SlotType.Waist] = "Пояс",
+            [SlotType.Legs] = "Ноги",
+            [SlotType.Feet] = "Ступни",
+            [SlotType.Ring] = "Кольцо",
+            [SlotType.Trinket] = "Аксессуар"
+        };
+
+        public static Dictionary<MaterialType, String> MaterialDictionary = new Dictionary<MaterialType, String>
+        {
+            [MaterialType.None] = "Все",
+            [MaterialType.Cloth] = "Ткань",
+            [MaterialType.Leather] = "Кожа",
+            [MaterialType.Mail] = "Кольчуга",
+            [MaterialType.Plate] = "Латы",
+            [MaterialType.Other] = "Другое"
+        };
+    }
+}
+
