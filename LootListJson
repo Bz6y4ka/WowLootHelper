@@ -1,0 +1,871 @@
+[
+	{
+		"Name": "Изумрудный кошмар",
+		"IsRaid": "true",
+		"Location": {
+			"X": "20.55",
+			"Y": "15.40"
+		},
+		"RaidIcon" : "\\icons\\the_emerald_nightmare\\the_emerald_nightmare_icon",
+		"LootByBosses": [
+			{
+				"Boss": "Низендра",
+				"LootItems": [
+					{
+						"Name": "Серый капюшон из драконьей чешуи",
+						"Slot": "Head",
+						"Material": "Mail",
+						"Image": "\\transmog\\the_emerald_nightmare\\nythendra\\Серый капюшон из драконьей чешуи.png",
+						"Icon": "\\icons\\the_emerald_nightmare\\nythendra\\Серый капюшон из драконьей чешуи.jpg"			
+					},
+					{
+						"Name": "Древнее оплечье переплетения снов",
+						"Slot": "Shoulder",
+						"Material": "Cloth",
+						"Image": "\\transmog\\the_emerald_nightmare\\nythendra\\Древнее оплечье переплетения снов.png",
+						"Icon": "\\icons\\the_emerald_nightmare\\nythendra\\Древнее оплечье переплетения снов.jpg"		
+					},
+					{
+						"Name": "Бригантина с узором из насекомых",
+						"Slot": "Chest",
+						"Material": "Plate",
+						"Image": "\\transmog\\the_emerald_nightmare\\nythendra\\Бригантина с узором из насекомых.png",
+						"Icon": "\\icons\\the_emerald_nightmare\\nythendra\\Бригантина с узором из насекомых.jpg"		
+					},
+					{
+						"Name": "Наручные скобы безумных снов",
+						"Slot": "Wrist",
+						"Material": "Plate",
+						"Image": "\\transmog\\the_emerald_nightmare\\nythendra\\Наручные скобы безумных снов.png",
+						"Icon": "\\icons\\the_emerald_nightmare\\nythendra\\Наручные скобы безумных снов.jpg"		
+					},
+					{
+						"Name": "Безжизненный латный ремень с пряжкой",
+						"Slot": "Waist",
+						"Material": "Leather",
+						"Image": "\\transmog\\the_emerald_nightmare\\nythendra\\Безжизненный латный ремень с пряжкой.png",
+						"Icon": "\\icons\\the_emerald_nightmare\\nythendra\\Безжизненный латный ремень с пряжкой.jpg"			
+					},
+					{
+						"Name": "Пояс из живых личинок",
+						"Slot": "Waist",
+						"Material": "Mail",
+						"Image": "\\transmog\\the_emerald_nightmare\\nythendra\\Пояс из живых личинок.png",
+						"Icon": "\\icons\\the_emerald_nightmare\\nythendra\\Пояс из живых личинок.jpg"			
+					},
+					{
+						"Name": "Грязные черведавы",
+						"Slot": "Feet",
+						"Material": "Leather",
+						"Image": "\\transmog\\the_emerald_nightmare\\nythendra\\Грязные черведавы.png",
+						"Icon": "\\icons\\the_emerald_nightmare\\nythendra\\Грязные черведавы.jpg"		
+					},	
+					{
+						"Name": "Грязное серебряное кольцо",
+						"Slot": "Ring",
+						"Material": "Other",
+						"Image": "",
+						"Icon": "\\icons\\the_emerald_nightmare\\nythendra\\Грязное серебряное кольцо.jpg"			
+					},		
+					{
+						"Name": "Обломки скорлупы",
+						"Slot": "Trinket",
+						"Material": "Other",
+						"Image": "",
+						"Icon": "\\icons\\the_emerald_nightmare\\nythendra\\Обломки скорлупы.jpg"			
+					},		
+					{
+						"Name": "Чумной улей",
+						"Slot": "Trinket",
+						"Material": "Other",
+						"Image": "",
+						"Icon": "\\icons\\the_emerald_nightmare\\nythendra\\Чумной улей.jpg"		
+					},
+				]															
+			},	
+			{
+				"Boss": "Ил'гинот, Сердце Порчи",
+				"LootItems": [
+					{
+						"Name": "Капюшон парада планет",
+						"Slot": "Head",
+						"Material": "Cloth",
+						"Image": "\\transmog\\the_emerald_nightmare\\il_gynoth_heart_of_corruption\\Капюшон парада планет.png",
+						"Icon": "\\icons\\the_emerald_nightmare\\il_gynoth_heart_of_corruption\\Капюшон парада планет.jpg"			
+					},		
+					{
+						"Name": "Кожаное оплечье иного мира",
+						"Slot": "Shoulder",
+						"Material": "Leather",
+						"Image": "\\transmog\\the_emerald_nightmare\\il_gynoth_heart_of_corruption\\Кожаное оплечье иного мира.png",
+						"Icon": "\\icons\\the_emerald_nightmare\\il_gynoth_heart_of_corruption\\Кожаное оплечье иного мира.jpg"			
+					},		
+					{
+						"Name": "Наплечье изменчивых рун",
+						"Slot": "Shoulder",
+						"Material": "Plate",
+						"Image": "\\transmog\\the_emerald_nightmare\\il_gynoth_heart_of_corruption\\Наплечье изменчивых рун.png",
+						"Icon": "\\icons\\the_emerald_nightmare\\il_gynoth_heart_of_corruption\\Наплечье изменчивых рун.jpg"			
+					},		
+					{
+						"Name": "Браслет вселенской незначительности",
+						"Slot": "Wrist",
+						"Material": "Cloth",
+						"Image": "\\transmog\\the_emerald_nightmare\\il_gynoth_heart_of_corruption\\Браслет вселенской незначительности.png",
+						"Icon": "\\icons\\the_emerald_nightmare\\il_gynoth_heart_of_corruption\\Браслет вселенской незначительности.jpg"			
+					},	
+					{
+						"Name": "Перчатки ваятеля снов",
+						"Slot": "Hands",
+						"Material": "Leather",
+						"Image": "\\transmog\\the_emerald_nightmare\\il_gynoth_heart_of_corruption\\Перчатки ваятеля снов.png",
+						"Icon": "\\icons\\the_emerald_nightmare\\il_gynoth_heart_of_corruption\\Перчатки ваятеля снов.jpg"			
+					},						
+					{
+						"Name": "Рукавицы злобных намерений",
+						"Slot": "Hands",
+						"Material": "Mail",
+						"Image": "\\transmog\\the_emerald_nightmare\\il_gynoth_heart_of_corruption\\Рукавицы злобных намерений.png",
+						"Icon": "\\icons\\the_emerald_nightmare\\il_gynoth_heart_of_corruption\\Рукавицы злобных намерений.jpg"	
+					},		
+					{
+						"Name": "Латный пояс безымянного ужаса",
+						"Slot": "Waist",
+						"Material": "Plate",
+						"Image": "\\transmog\\the_emerald_nightmare\\il_gynoth_heart_of_corruption\\Латный пояс безымянного ужаса.png",
+						"Icon": "\\icons\\the_emerald_nightmare\\il_gynoth_heart_of_corruption\\Латный пояс безымянного ужаса.jpg"			
+					},
+					{
+						"Name": "Поножи сингулярной цепи",
+						"Slot": "Legs",
+						"Material": "Mail",
+						"Image": "\\transmog\\the_emerald_nightmare\\il_gynoth_heart_of_corruption\\Поножи сингулярной цепи.png",
+						"Icon": "\\icons\\the_emerald_nightmare\\il_gynoth_heart_of_corruption\\Поножи сингулярной цепи.jpg"			
+					},	
+					{
+						"Name": "Жуткая исполинская перчатка",
+						"Slot": "Ring",
+						"Material": "Other",
+						"Image": "",
+						"Icon": "\\icons\\the_emerald_nightmare\\il_gynoth_heart_of_corruption\\Жуткая исполинская печатка.jpg"			
+					},		
+					{
+						"Name": "Дикие щупальца",
+						"Slot": "Trinket",
+						"Material": "Other",
+						"Image": "",
+						"Icon": "\\icons\\the_emerald_nightmare\\il_gynoth_heart_of_corruption\\Дикие щупальца.jpg"			
+					},		
+					{
+						"Name": "Извивающееся сухожилие",
+						"Slot": "Trinket",
+						"Material": "Other",
+						"Image": "\\icons\\the_emerald_nightmare\\il_gynoth_heart_of_corruption\\Извивающееся сухожилие.jpg"		
+					},			
+					{
+						"Name": "Чаша кошмарного гноя",
+						"Slot": "Trinket",
+						"Material": "Other",
+						"Image": "",
+						"Icon": "\\icons\\the_emerald_nightmare\\il_gynoth_heart_of_corruption\\Чаша кошмарного гноя.jpg"			
+					},	
+				]												
+		    },
+		    {
+				"Boss": "Элерет Дикая Лань",
+				"LootItems": [	
+					{
+						"Name": "Маска бесчисленных глаз",
+						"Slot": "Head",
+						"Material": "Leather",
+						"Image": "\\transmog\\the_emerald_nightmare\\elerethe_renferal\\Маска бесчисленных глаз.png",
+						"Icon": "\\icons\\the_emerald_nightmare\\elerethe_renferal\\Маска бесчисленных глаз.jpg"
+					},	
+					{
+						"Name": "Украшенный ядовитыми клыками барбют",
+						"Slot": "Head",
+						"Material": "Plate",
+						"Image": "\\transmog\\the_emerald_nightmare\\elerethe_renferal\\Украшенный ядовитыми клыками барбют.png",
+						"Icon": "\\icons\\the_emerald_nightmare\\elerethe_renferal\\Украшенный ядовитыми клыками барбют.jpg"
+					},	
+					{
+						"Name": "Теплый плащ из паутины",
+						"Slot": "Back",
+						"Material": "Other",
+						"Image": "\\transmog\\the_emerald_nightmare\\elerethe_renferal\\Теплый плащ из паутины.png",
+						"Icon": "\\icons\\the_emerald_nightmare\\elerethe_renferal\\Теплый плащ из паутины.jpg"		
+					},	
+					{
+						"Name": "Хауберк терпеливого душителя",
+						"Slot": "Chest",
+						"Material": "Mail",
+						"Image": "\\transmog\\the_emerald_nightmare\\elerethe_renferal\\Хауберк терпеливого душителя.png",
+						"Icon": "\\icons\\the_emerald_nightmare\\elerethe_renferal\\Хауберк терпеливого душителя.jpg"		
+					},	
+					{
+						"Name": "Кулачные обмотки обманутого доверия",
+						"Slot": "Wrist",
+						"Material": "Leather",
+						"Image": "\\transmog\\the_emerald_nightmare\\elerethe_renferal\\Кулачные обмотки обманутого доверия.png",
+						"Icon": "\\icons\\the_emerald_nightmare\\elerethe_renferal\\Кулачные обмотки обманутого доверия.jpg"		
+					},	
+					{
+						"Name": "Мягкий кушак из паучьего шелка",
+						"Slot": "Waist",
+						"Material": "Cloth",
+						"Image": "\\transmog\\the_emerald_nightmare\\elerethe_renferal\\Мягкий кушак из паучьего шелка.png",
+						"Icon": "\\icons\\the_emerald_nightmare\\elerethe_renferal\\Мягкий кушак из паучьего шелка.jpg"		
+					},	
+					{
+						"Name": "Искореженные бурей ножные латы",
+						"Slot": "Legs",
+						"Material": "Plate",
+						"Image": "\\transmog\\the_emerald_nightmare\\elerethe_renferal\\Искореженные бурей ножные латы.png",
+						"Icon": "\\icons\\the_emerald_nightmare\\elerethe_renferal\\Искореженные бурей ножные латы.jpg"		
+					},	
+					{
+						"Name": "Рваные поножи из ткани ужаса",
+						"Slot": "Legs",
+						"Material": "Cloth",
+						"Image": "\\transmog\\the_emerald_nightmare\\elerethe_renferal\\Рваные поножи из ткани ужаса.png",
+						"Icon": "\\icons\\the_emerald_nightmare\\elerethe_renferal\\Рваные поножи из ткани ужаса.jpg"		
+					},	
+					{
+						"Name": "Башмаки черного яда",
+						"Slot": "Feet",
+						"Material": "Mail",
+						"Image": "\\transmog\\the_emerald_nightmare\\elerethe_renferal\\Башмаки черного яда.png",
+						"Icon": "\\icons\\the_emerald_nightmare\\elerethe_renferal\\Башмаки черного яда.jpg"		
+					},
+					{
+						"Name": "Кокон вынужденного одиночества",
+						"Slot": "Trinket",
+						"Material": "Other",
+						"Image": "\\transmog\\the_emerald_nightmare\\elerethe_renferal\\Кокон вынужденного одиночества.png",
+						"Icon": "\\icons\\the_emerald_nightmare\\elerethe_renferal\\Кокон вынужденного одиночества.jpg"		
+					},
+					{
+						"Name": "Ураганный ветер",
+						"Slot": "Trinket",
+						"Material": "Other",
+						"Image": "",
+						"Icon": "\\icons\\the_emerald_nightmare\\elerethe_renferal\\Ураганный ветер.jpg"		
+					},
+				]
+			},
+			{
+				"Boss": "Урсок",
+				"LootItems": [
+					{
+						"Name": "Проклятое ожерелье из медвежьих клыков",
+						"Slot": "Neck",
+						"Material": "Other",
+						"Image": "",
+						"Icon":	"\\icons\\the_emerald_nightmare\\ursoc_cursed_bear_god\\Проклятое ожерелье из медвежьих клыков.jpg"		
+					},
+					{
+						"Name": "Матовое наплечье с опушкой",
+						"Slot": "Shoulder",
+						"Material": "Mail",
+						"Image": "\\transmog\\the_emerald_nightmare\\ursoc_cursed_bear_god\\Матовое наплечье с опушкой.png",	
+						"Icon":	"\\icons\\the_emerald_nightmare\\ursoc_cursed_bear_god\\Матовое наплечье с опушкой.jpg"
+					},
+					{
+						"Name": "Иссеченный латный нагрудник яростных клыков",
+						"Slot": "Chest",
+						"Material": "Leather",
+						"Image": "\\transmog\\the_emerald_nightmare\\ursoc_cursed_bear_god\\Иссеченный латный нагрудник яростных клыков.png",
+						"Icon": "\\icons\\the_emerald_nightmare\\ursoc_cursed_bear_god\\Иссеченный латный нагрудник яростных клыков.jpg"		
+					},
+					{
+						"Name": "Рваные меховые напульсники",
+						"Slot": "Wrist",
+						"Material": "Cloth",
+						"Image": "\\transmog\\the_emerald_nightmare\\ursoc_cursed_bear_god\\Рваные меховые напульсники.png",
+						"Icon": "\\icons\\the_emerald_nightmare\\ursoc_cursed_bear_god\\Рваные меховые напульсники.jpg"		
+					},
+					{
+						"Name": "Дикие рукавицы ярости",
+						"Slot": "Hands",
+						"Material": "Plate",
+						"Image": "\\transmog\\the_emerald_nightmare\\ursoc_cursed_bear_god\\Дикие рукавицы ярости.png",
+						"Icon": "\\icons\\the_emerald_nightmare\\ursoc_cursed_bear_god\\Дикие рукавицы ярости.jpg"	
+					},
+					{
+						"Name": "Забрызганные поножи из кровавого меха",
+						"Slot": "Legs",
+						"Material": "Leather",
+						"Image": "\\transmog\\the_emerald_nightmare\\ursoc_cursed_bear_god\\Забрызганные поножи из кровавого меха.png",
+						"Icon": "\\icons\\the_emerald_nightmare\\ursoc_cursed_bear_god\\Забрызганные поножи из кровавого меха.jpg"		
+					},
+					{
+						"Name": "Подбитые шерстью алые туфли",
+						"Slot": "Feet",
+						"Material": "Cloth",
+						"Image": "\\transmog\\the_emerald_nightmare\\ursoc_cursed_bear_god\\Подбитые шерстью алые туфли.png",
+						"Icon": "\\icons\\the_emerald_nightmare\\ursoc_cursed_bear_god\\Подбитые шерстью алые туфли.jpg"	
+					},
+					{
+						"Name": "Потертые башмаки железных когтей",
+						"Slot": "Feet",
+						"Material": "Mail",
+						"Image": "\\transmog\\the_emerald_nightmare\\ursoc_cursed_bear_god\\Потертые башмаки железных когтей.png",
+						"Icon": "\\icons\\the_emerald_nightmare\\ursoc_cursed_bear_god\\Потертые башмаки железных когтей.jpg"	
+					},
+					{
+						"Name": "Растаптывающие боевые сапоги",
+						"Slot": "Feet",
+						"Material": "Plate",
+						"Image": "\\transmog\\the_emerald_nightmare\\ursoc_cursed_bear_god\\Растаптывающие боевые сапоги.png",
+						"Icon": "\\icons\\the_emerald_nightmare\\ursoc_cursed_bear_god\\Растаптывающие боевые сапоги.jpg"		
+					},
+					{
+						"Name": "Инстинкт жажды крови",
+						"Slot": "Trinket",
+						"Material": "Other",
+						"Image": "",
+						"Icon": "\\icons\\the_emerald_nightmare\\ursoc_cursed_bear_god\\Инстинкт жажды крови.jpg"	
+					},
+					{
+						"Name": "Неукротиамя ярость",
+						"Slot": "Trinket",
+						"Material": "Other",
+						"Image": "",
+						"Icon": "\\icons\\the_emerald_nightmare\\ursoc_cursed_bear_god\\Неукротимая ярость.jpg"		
+					},
+					{
+						"Name": "Обостренные чувства",
+						"Slot": "Trinket",
+						"Material": "Other",
+						"Image": "",
+						"Icon": "\\icons\\the_emerald_nightmare\\ursoc_cursed_bear_god\\Обостренные чувства.jpg"		
+					},
+					{
+						"Name": "Раздирающая лапа Урсока",
+						"Slot": "Trinket",
+						"Material": "Other",
+						"Image": "",
+						"Icon": "\\icons\\the_emerald_nightmare\\ursoc_cursed_bear_god\\Раздирающая лапа Урсока.jpg"		
+					},
+				]
+			},
+			{
+				"Boss": "Драконы Кошмара",
+				"LootItems": [
+					{
+						"Name": "Клобук испуга",
+						"Slot": "Head",
+						"Material": "Leather",
+						"Image": "\\transmog\\the_emerald_nightmare\\dragons_of_nightmare\\Клобук испуга.png",
+						"Icon": "\\icons\\the_emerald_nightmare\\dragons_of_nightmare\\Клобук испуга.jpg"	
+					},
+					{
+						"Name": "Инкрустированные чешуей драконов Сна одежды",
+						"Slot": "Chest",
+						"Material": "Cloth",
+						"Image": "\\transmog\\the_emerald_nightmare\\dragons_of_nightmare\\Инкрустированные чешуей драконов Сна одежды.png",
+						"Icon": "\\icons\\the_emerald_nightmare\\dragons_of_nightmare\\Инкрустированные чешуей драконов Сна одежды.jpg"	
+					},
+					{
+						"Name": "Покрытый ужасающими письменами нагрудный доспех",
+						"Slot": "Chest",
+						"Material": "Plate",
+						"Image": "\\transmog\\the_emerald_nightmare\\dragons_of_nightmare\\Инкрустированные чешуей драконов Сна одежды.png",
+						"Icon": "\\icons\\the_emerald_nightmare\\dragons_of_nightmare\\Инкрустированные чешуей драконов Сна одежды.jpg"	
+					},
+					{
+						"Name": "Нарукавник из драконьих шпор",
+						"Slot": "Wrist",
+						"Material": "Leather",
+						"Image": "\\transmog\\the_emerald_nightmare\\dragons_of_nightmare\\Нарукавник из драконьих шпор.png",
+						"Icon": "\\icons\\the_emerald_nightmare\\dragons_of_nightmare\\Нарукавник из драконьих шпор.jpg"	
+					},
+					{
+						"Name": "Наручные скобы из драконьих костей",
+						"Slot": "Wrist",
+						"Material": "Plate",
+						"Image": "\\transmog\\the_emerald_nightmare\\dragons_of_nightmare\\Наручные скобы из драконьих костей.png",
+						"Icon": "\\icons\\the_emerald_nightmare\\dragons_of_nightmare\\Наручные скобы из драконьих костей.jpg"		
+					},
+					{
+						"Name": "Повязки обманчивой мощи",
+						"Slot": "Hands",
+						"Material": "Cloth",
+						"Image": "\\transmog\\the_emerald_nightmare\\dragons_of_nightmare\\Повязки обманчивой мощи.png",
+						"Icon": "\\icons\\the_emerald_nightmare\\dragons_of_nightmare\\Повязки обманчивой мощи.jpg"		
+					},
+					{
+						"Name": "Рукавицы безумия",
+						"Slot": "Hands",
+						"Material": "Mail",
+						"Image": "\\transmog\\the_emerald_nightmare\\dragons_of_nightmare\\Рукавицы безумия.png",
+						"Icon": "\\icons\\the_emerald_nightmare\\dragons_of_nightmare\\Рукавицы безумия.jpg"		
+					},
+					{
+						"Name": "Болезнетворные башмаки",
+						"Slot": "Feet",
+						"Material": "Mail",
+						"Image": "\\transmog\\the_emerald_nightmare\\dragons_of_nightmare\\Болезнетворные башмаки.png",
+						"Icon": "\\icons\\the_emerald_nightmare\\dragons_of_nightmare\\Болезнетворные башмаки.jpg"		
+					},
+					{
+						"Name": "Кольцо раздирания разума",
+						"Slot": "Ring",
+						"Material": "Other",
+						"Image": "",
+						"Icon": "\\icons\\the_emerald_nightmare\\dragons_of_nightmare\\Кольцо раздирания разума.jpg"		
+					},
+					{
+						"Name": "Взрывоопасная жуткая слизь",
+						"Slot": "Trinket",
+						"Material": "Other",
+						"Image": "",
+						"Icon": "\\icons\\the_emerald_nightmare\\dragons_of_nightmare\\Взрывоопасная жуткая слизь.jpg"		
+					},		
+					{
+						"Name": "Призрачное эхо",
+						"Slot": "Trinket",
+						"Material": "Other",
+						"Image": "",
+						"Icon": "\\icons\\the_emerald_nightmare\\dragons_of_nightmare\\Призрачное эхо.jpg"		
+					},	
+					{
+						"Name": "Фиал кошмарного тумана",
+						"Slot": "Trinket",
+						"Material": "Other",
+						"Image": "",
+						"Icon": "\\icons\\the_emerald_nightmare\\dragons_of_nightmare\\Фиал кошмарного тумана.jpg"		
+					},			
+				]
+			},
+			{
+				"Boss": "Кенарий",
+				"LootItems": [
+					{
+						"Name": "Корона стальных шипов",
+						"Slot": "Head",
+						"Material": "Plate",
+						"Image": "\\transmog\\the_emerald_nightmare\\cenarius\\Корона стальных шипов.png",
+						"Icon": "\\icons\\the_emerald_nightmare\\cenarius\\Корона стальных шипов.jpg"	
+					},
+					{
+						"Name": "Оплечье вечного цветения",
+						"Slot": "Shoulder",
+						"Material": "Cloth",
+						"Image": "\\transmog\\the_emerald_nightmare\\cenarius\\Оплечье вечного цветения.png",
+						"Icon": "\\icons\\the_emerald_nightmare\\cenarius\\Оплечье вечного цветения.jpg"	
+					},
+					{
+						"Name": "Шипастое наплечье из ветвей ежевики",
+						"Slot": "Shoulder",
+						"Material": "Mail",
+						"Image": "\\transmog\\the_emerald_nightmare\\cenarius\\Шипастое наплечье из ветвей ежевики.png",
+						"Icon": "\\icons\\the_emerald_nightmare\\cenarius\\Шипастое наплечье из ветвей ежевики.jpg"		
+					},
+					{
+						"Name": "Пелерина из вечнозеленой лианы",
+						"Slot": "Back",
+						"Material": "Other",
+						"Image": "\\transmog\\the_emerald_nightmare\\cenarius\\Пелерина из вечнозеленой лианы.png",
+						"Icon": "\\icons\\the_emerald_nightmare\\cenarius\\Пелерина из вечнозеленой лианы.jpg"		
+					},
+					{
+						"Name": "Одеяние хранителя рощи",
+						"Slot": "Chest",
+						"Material": "Leather",
+						"Image": "\\transmog\\the_emerald_nightmare\\cenarius\\Одеяние хранителя рощи.png",
+						"Icon": "\\icons\\the_emerald_nightmare\\cenarius\\Одеяние хранителя рощи.jpg"		
+					},
+					{
+						"Name": "Подогнанные рукавицы из железной коры",
+						"Slot": "Hands",
+						"Material": "Plate",
+						"Image": "\\transmog\\the_emerald_nightmare\\cenarius\\Подогнанные рукавицы из железной коры.png",
+						"Icon": "\\icons\\the_emerald_nightmare\\cenarius\\Подогнанные рукавицы из железной коры.jpg"		
+					},
+					{
+						"Name": "Опояска лесного властелина",
+						"Slot": "Waist",
+						"Material": "Leather",
+						"Image": "\\transmog\\the_emerald_nightmare\\cenarius\\Опояска лесного властелина.png",
+						"Icon": "\\icons\\the_emerald_nightmare\\cenarius\\Опояска лесного властелина.jpg"		
+					},
+					{
+						"Name": "Цепь от сумки смеющейся сестры",
+						"Slot": "Waist",
+						"Material": "Mail",
+						"Image": "\\transmog\\the_emerald_nightmare\\cenarius\\Цепь от сумки смеющейся сестры.png",
+						"Icon": "\\icons\\the_emerald_nightmare\\cenarius\\Цепь от сумки смеющейся сестры.jpg"	
+					},
+					{
+						"Name": "Удобные накопытники дриады",
+						"Slot": "Feet",
+						"Material": "Cloth",
+						"Image": "\\transmog\\the_emerald_nightmare\\cenarius\\Удобные накопытники дриады.png",
+						"Icon": "\\icons\\the_emerald_nightmare\\cenarius\\Удобные накопытники дриады.jpg"		
+					},
+					{
+						"Name": "Зов природы",
+						"Slot": "Trinket",
+						"Material": "Other",
+						"Image": "",
+						"Icon": "\\icons\\the_emerald_nightmare\\cenarius\\Зов природы.jpg"		
+					},	
+					{
+						"Name": "Рог Кенария",
+						"Slot": "Trinket",
+						"Material": "Other",
+						"Image": "",
+						"Icon": "\\icons\\the_emerald_nightmare\\cenarius\\Рог Кенария.jpg"		
+					},	
+				]
+			},
+			{
+				"Boss": "Ксавий",
+				"LootItems": [
+					{
+						"Name": "Капюшон затемненных видений",
+						"Slot": "Head",
+						"Material": "Cloth",
+						"Image": "\\transmog\\the_emerald_nightmare\\xavius\\Капюшон затемненных видений.png",
+						"Icon": "\\icons\\the_emerald_nightmare\\xavius\\Капюшон затемненных видений.jpg"		
+					},
+					{
+						"Name": "Очерненное ожерелье камня портала",
+						"Slot": "Neck",
+						"Material": "Other",
+						"Image": "",
+						"Icon": "\\icons\\the_emerald_nightmare\\xavius\\Очерненное ожерелье камня портала.jpg"	
+					},
+					{
+						"Name": "Наплечье вестника полуночи",
+						"Slot": "Shoulder",
+						"Material": "Plate",
+						"Image": "\\transmog\\the_emerald_nightmare\\xavius\\Наплечье вестника полуночи.png",
+						"Icon": "\\icons\\the_emerald_nightmare\\xavius\\Наплечье вестника полуночи.jpg"	
+					},
+					{
+						"Name": "Сводящее с ума одеяние секретов",
+						"Slot": "Chest",
+						"Material": "Cloth",
+						"Image": "\\transmog\\the_emerald_nightmare\\xavius\\Сводящее с ума одеяние секретов.png",
+						"Icon": "\\icons\\the_emerald_nightmare\\xavius\\Сводящее с ума одеяние секретов.jpg"		
+					},
+					{
+						"Name": "Оковы кошмарного колосса",
+						"Slot": "Wrist",
+						"Material": "Mail",
+						"Image": "\\transmog\\the_emerald_nightmare\\xavius\\Оковы кошмарного колосса.png",
+						"Icon": "\\icons\\the_emerald_nightmare\\xavius\\Оковы кошмарного колосса.jpg"		
+					},
+					{
+						"Name": "Закаленный эпохами латный пояс",
+						"Slot": "Waist",
+						"Material": "Plate",
+						"Image": "\\transmog\\the_emerald_nightmare\\xavius\\Закаленный эпохами латный пояс.png",
+						"Icon": "\\icons\\the_emerald_nightmare\\xavius\\Закаленный эпохами латный пояс.jpg"		
+					},
+					{
+						"Name": "Мерзкие кожаные штаны",
+						"Slot": "Legs",
+						"Material": "Leather",
+						"Image": "\\transmog\\the_emerald_nightmare\\xavius\\Мерзкие кожаные штаны.png",
+						"Icon": "\\icons\\the_emerald_nightmare\\xavius\\Мерзкие кожаные штаны.jpg"		
+					},
+					{
+						"Name": "Поножи из разделенных звеньев",
+						"Slot": "Legs",
+						"Material": "Mail",
+						"Image": "\\transmog\\the_emerald_nightmare\\xavius\\Поножи из разделенных звеньев.png",
+						"Icon": "\\icons\\the_emerald_nightmare\\xavius\\Поножи из разделенных звеньев.jpg"		
+					},
+					{
+						"Name": "Сапоги бесконечного предательства",
+						"Slot": "Feet",
+						"Material": "Leather",
+						"Image": "\\transmog\\the_emerald_nightmare\\xavius\\Сапоги бесконечного предательства.png",
+						"Icon": "\\icons\\the_emerald_nightmare\\xavius\\Сапоги бесконечного предательства.jpg"		
+					},
+					{
+						"Name": "Дважды искаженная азшарская печатка",
+						"Slot": "Ring",
+						"Material": "Other",
+						"Image": "",
+						"Icon": "\\icons\\the_emerald_nightmare\\xavius\\Дважды искаженная азшарская печатка.jpg"		
+					},	
+					{
+						"Name": "Ветвь порчи",
+						"Slot": "Trinket",
+						"Material": "Other",
+						"Image": "",
+						"Icon": "\\icons\\the_emerald_nightmare\\xavius\\Ветвь порчи.jpg"		
+					},
+					{
+						"Name": "Гротескная статуэтка",
+						"Slot": "Trinket",
+						"Material": "Other",
+						"Image": "",
+						"Icon": "\\icons\\the_emerald_nightmare\\xavius\\Гротескная статуэтка.jpg"		
+					},
+				]
+			}
+		]
+	},
+	{
+		"Name": "Испытание Доблести",
+		"IsRaid": "true",
+		"Location": {
+			"X": "24.55",
+			"Y": "19.40"
+		},
+		"RaidIcon" : "\\icons\\trial_of_valor\\trial_of_valor_icon",
+		"LootByBosses": [
+			{
+				"Boss": "Один",
+				"LootItems": [
+					{
+						"Name": "Оплечье мертвых победителей",
+						"Slot": "Back",
+						"Material": "Other",
+						"Image": "\\transmog\\trial_of_valor\\odyn\\Оплечье мертвых победителей.png",
+						"Icon": "\\icons\\trial_of_valor\\odyn\\Оплечье мертвых победителей.jpg"		
+					},
+					{
+						"Name": "Одеяния небесной красоты",
+						"Slot": "Chest",
+						"Material": "Cloth",
+						"Image": "\\transmog\\trial_of_valor\\odyn\\Одеяния небесной красоты.png",
+						"Icon": "\\icons\\trial_of_valor\\odyn\\Одеяния небесной красоты.jpg"	
+					},
+					{
+						"Name": "Сияющий панцирь валь'киры",
+						"Slot": "Chest",
+						"Material": "Plate",
+						"Image": "\\transmog\\trial_of_valor\\odyn\\Сияющий панцирь валь'киры.png",
+						"Icon": "\\icons\\trial_of_valor\\odyn\\Сияющий панцирь валь'киры.jpg"		
+					},
+					{
+						"Name": "Нарукавники небесного воина",
+						"Slot": "Wrist",
+						"Material": "Leather",
+						"Image": "\\transmog\\trial_of_valor\\odyn\\Нарукавники небесного воина.png",
+						"Icon": "\\icons\\trial_of_valor\\odyn\\Нарукавники небесного воина.jpg"
+					},
+					{
+						"Name": "Перчатки брошенного вызова",
+						"Slot": "Hands",
+						"Material": "Leather",
+						"Image": "\\transmog\\trial_of_valor\\odyn\\Перчатки брошенного вызова.png",
+						"Icon": "\\icons\\trial_of_valor\\odyn\\Перчатки брошенного вызова.jpg"		
+					},
+					{
+						"Name": "Кушак света",
+						"Slot": "Waist",
+						"Material": "Cloth",
+						"Image": "\\transmog\\trial_of_valor\\odyn\\Кушак света.png",
+						"Icon": "\\icons\\trial_of_valor\\odyn\\Кушак света.jpg"		
+					},
+					{
+						"Name": "Золоторунные ножные латы",
+						"Slot": "Legs",
+						"Material": "Plate",
+						"Image": "\\transmog\\trial_of_valor\\odyn\\Золоторунные ножные латы.png",
+						"Icon": "\\icons\\trial_of_valor\\odyn\\Золоторунные ножные латы.jpg"		
+					},
+					{
+						"Name": "Поножи неустрашимости",
+						"Slot": "Legs",
+						"Material": "Mail",
+						"Image": "\\transmog\\trial_of_valor\\odyn\\Поножи неустрашимости.png",
+						"Icon": "\\icons\\trial_of_valor\\odyn\\Поножи неустрашимости.jpg"		
+					},
+					{
+						"Name": "Башмаки сияющей души",
+						"Slot": "Feet",
+						"Material": "Mail",
+						"Image": "\\transmog\\trial_of_valor\\odyn\\Башмаки сияющей души.png",
+						"Icon": "\\icons\\trial_of_valor\\odyn\\Башмаки сияющей души.jpg"		
+					},
+					{
+						"Name": "Перстень возвышенной славы",
+						"Slot": "Ring",
+						"Material": "Other",
+						"Image": "",
+						"Icon": "\\icons\\trial_of_valor\\odyn\\Перстень возвышенной славы.jpg"		
+					},	
+					{
+						"Name": "Цепи доблести",
+						"Slot": "Trinket",
+						"Material": "Other",
+						"Image": "",
+						"Icon": "\\icons\\trial_of_valor\\odyn\\Цепи доблести.jpg"		
+					},
+				]
+			},
+			{
+				"Boss": "Гарм",
+				"LootItems": [
+					{
+						"Name": "Потрепанная ветром парусина",
+						"Slot": "Back",
+						"Material": "Other",
+						"Image": "\\transmog\\trial_of_valor\\guarm\\Потрепанная ветром парусина.png",
+						"Icon": "\\icons\\trial_of_valor\\guarm\\Потрепанная ветром парусина.jpg"		
+					},
+					{
+						"Name": "Мундир из шкуры зверя преисподней",
+						"Slot": "Chest",
+						"Material": "Leather",
+						"Image": "\\transmog\\trial_of_valor\\guarm\\Мундир из шкуры зверя преисподней.png",
+						"Icon": "\\icons\\trial_of_valor\\guarm\\Мундир из шкуры зверя преисподней.jpg"	
+					},
+					{
+						"Name": "Наручи из шерсти адского пса",
+						"Slot": "Wrist",
+						"Material": "Cloth",
+						"Image": "\\transmog\\trial_of_valor\\guarm\\Наручи из шерсти адского пса.png",
+						"Icon": "\\icons\\trial_of_valor\\guarm\\Наручи из шерсти адского пса.jpg"	
+					},
+					{
+						"Name": "Наручи из шерсти адского пса",
+						"Slot": "Wrist",
+						"Material": "Cloth",
+						"Image": "\\transmog\\trial_of_valor\\guarm\\Наручи из шерсти адского пса.png",
+						"Icon": "\\icons\\trial_of_valor\\guarm\\Наручи из шерсти адского пса.jpg"		
+					},
+					{
+						"Name": "Устойчивые к укусам наручные скобы",
+						"Slot": "Wrist",
+						"Material": "Mail",
+						"Image": "\\transmog\\trial_of_valor\\guarm\\Устойчивые к укусам наручные скобы.png",
+						"Icon": "\\icons\\trial_of_valor\\guarm\\Устойчивые к укусам наручные скобы.jpg"		
+					},
+					{
+						"Name": "Захваты ликующего квалдира",
+						"Slot": "Hands",
+						"Material": "Mail",
+						"Image": "\\transmog\\trial_of_valor\\guarm\\Захваты ликующего квалдира.png",
+						"Icon": "\\icons\\trial_of_valor\\guarm\\Захваты ликующего квалдира.jpg"		
+					},
+					{
+						"Name": "Усиленные рукавицы псаря",
+						"Slot": "Hands",
+						"Material": "Plate",
+						"Image": "\\transmog\\trial_of_valor\\guarm\\Усиленные рукавицы псаря.png",
+						"Icon": "\\icons\\trial_of_valor\\guarm\\Усиленные рукавицы псаря.jpg"		
+					},
+					{
+						"Name": "Поножи нижнего мира",
+						"Slot": "Legs",
+						"Material": "Cloth",
+						"Image": "\\transmog\\trial_of_valor\\guarm\\Поножи нижнего мира.png",
+						"Icon": "\\icons\\trial_of_valor\\guarm\\Поножи нижнего мира.jpg"		
+					},
+					{
+						"Name": "Водолазные сапоги со свинцовыми подошвами",
+						"Slot": "Feet",
+						"Material": "Plate",
+						"Image": "\\transmog\\trial_of_valor\\guarm\\Водолазные сапоги со свинцовыми подошвами.png",
+						"Icon": "\\icons\\trial_of_valor\\guarm\\Водолазные сапоги со свинцовыми подошвами.jpg"		
+					},
+					{
+						"Name": "Мокасины бесшумной поступи",
+						"Slot": "Feet",
+						"Material": "Leather",
+						"Image": "\\transmog\\trial_of_valor\\guarm\\Мокасины бесшумной поступи.png",
+						"Icon": "\\icons\\trial_of_valor\\guarm\\Мокасины бесшумной поступи.jpg"		
+					},
+					{
+						"Name": "Глаз Гарма",
+						"Slot": "Trinket",
+						"Material": "Other",
+						"Image": "",
+						"Icon": "\\icons\\trial_of_valor\\guarm\\Глаз Гарма.jpg"		
+					},
+				]
+			},
+			{
+				"Boss": "Хелия",
+				"LootItems": [
+					{
+						"Name": "Подвеска с морским веером",
+						"Slot": "Neck",
+						"Material": "Other",
+						"Image": "",
+						"Icon": "\\icons\\trial_of_valor\\helya\\Подвеска с морским веером.jpg"		
+					},
+					{
+						"Name": "Пелерина недостойных",
+						"Slot": "Back",
+						"Material": "Other",
+						"Image": "\\transmog\\trial_of_valor\\helya\\Пелерина недостойных.png",
+						"Icon": "\\icons\\trial_of_valor\\helya\\Пелерина недостойных.jpg"		
+					},
+					{
+						"Name": "Проржавевшая кольчуга валь'киры",
+						"Slot": "Chest",
+						"Material": "Mail",
+						"Image": "\\transmog\\trial_of_valor\\helya\\Проржавевшая кольчуга валь'киры.png",
+						"Icon": "\\icons\\trial_of_valor\\helya\\Проржавевшая кольчуга валь'киры.jpg"			
+					},
+					{
+						"Name": "Покрытые известняком наручные скобы",
+						"Slot": "Wrist",
+						"Material": "Plate",
+						"Image": "\\transmog\\trial_of_valor\\helya\\Покрытые известняком наручные скобы.png",
+						"Icon": "\\icons\\trial_of_valor\\helya\\Покрытые известняком наручные скобы.jpg"			
+					},
+					{
+						"Name": "Промасленные повязки такелажника",
+						"Slot": "Hands",
+						"Material": "Cloth",
+						"Image": "\\transmog\\trial_of_valor\\helya\\Промасленные повязки такелажника.png",
+						"Icon": "\\icons\\trial_of_valor\\helya\\Промасленные повязки такелажника.jpg"			
+					},
+					{
+						"Name": "Воинский пояс из якорной цепи",
+						"Slot": "Waist",
+						"Material": "Mail",
+						"Image": "\\transmog\\trial_of_valor\\helya\\Воинский пояс из якорной цепи.png",
+						"Icon": "\\icons\\trial_of_valor\\helya\\Воинский пояс из якорной цепи.jpg"			
+					},
+					{
+						"Name": "Латный пояс из костей кракена",
+						"Slot": "Waist",
+						"Material": "Plate",
+						"Image": "\\transmog\\trial_of_valor\\helya\\Латный пояс из костей кракена.png",
+						"Icon": "\\icons\\trial_of_valor\\helya\\Латный пояс из костей кракена.jpg"			
+					},
+					{
+						"Name": "Шнур с раковинами моллюсков",
+						"Slot": "Waist",
+						"Material": "Leather",
+						"Image": "\\transmog\\trial_of_valor\\helya\\Шнур с раковинами моллюсков.png",
+						"Icon": "\\icons\\trial_of_valor\\helya\\Шнур с раковинами моллюсков.jpg"			
+					},
+					{
+						"Name": "Поцарапанные присосками поножи",
+						"Slot": "Legs",
+						"Material": "Leather",
+						"Image": "\\transmog\\trial_of_valor\\helya\\Поцарапанные присосками поножи.png",
+						"Icon": "\\icons\\trial_of_valor\\helya\\Поцарапанные присосками поножи.jpg"			
+					},
+					{
+						"Name": "Ботфорты утопленника",
+						"Slot": "Feet",
+						"Material": "Cloth",
+						"Image": "\\transmog\\trial_of_valor\\helya\\Ботфорты утопленника.png",
+						"Icon": "\\icons\\trial_of_valor\\helya\\Ботфорты утопленника.jpg"			
+					},
+					{
+						"Name": "Соленая слизь в бутылке",
+						"Slot": "Trinket",
+						"Material": "Other",
+						"Image": "",
+						"Icon": "\\icons\\trial_of_valor\\helya\\Соленая слизь в бутылке.jpg"			
+					},
+				]
+			}
+		]
+	}
+]
