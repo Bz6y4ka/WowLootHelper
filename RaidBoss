@@ -1,0 +1,55 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Kypca4
+{
+    // // public enum SlotType
+    //  {
+    //      Head, // Голова
+    //      neck, // Шея
+    //      Shoulder, // Плечи
+    //      Back, // Спина
+    //      Chest, // Грудь
+    //      Wrist, // Запястья
+    //      Hands, // Кисти рук
+    //      Waist, // Пояс
+    //      Legs, // Штанишки
+    //      Feet, // Ступни
+    //      Ring, // Кольца
+    //      Trinket // Аксессуары 
+
+    // }
+    //  public enum MaterialType
+    //  {
+    //      Cloth, // Ткань
+    //      Leather, // кожа
+    //      Mail, // кольчуга
+    //      Plate,// латы
+    //      Other// трини и кольца
+
+    //  }
+    public class Raidboss
+    {
+        public string Name { get; set; }
+        //public string Image { get; set; }
+        //public SlotType Slot { get; set; }
+        //public MaterialType Material { get; set; }
+        //public string Icon { get; set; }
+
+        List<Raidboss> Raidbosses = new List<Raidboss>();
+        public Raidboss() { }
+        public Raidboss(String Name/*, String Image, SlotType Slot, MaterialType Material, string Icon*/)
+        {
+            this.Name = Name;
+            //this.Image = Image;
+            //this.Slot = Slot;
+            //this.Material = Material;
+            //this.Icon = Icon;
+        }
+
+        //  }
+    }
+}
