@@ -1,0 +1,56 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace KypcachSecondVersion
+{
+    public enum SlotType//объявление ЕНУМОВ 
+    {
+        None,
+        Head, // Голова
+        neck, // Шея
+        Shoulder, // Плечи
+        Back, // Спина
+        Chest, // Грудь
+        Wrist, // Запястья
+        Hands, // Кисти рук
+        Waist, // Пояс
+        Legs, // Штанишки
+        Feet, // Ступни
+        Ring, // Кольца
+        Trinket // Аксессуары 
+
+    }
+    public enum MaterialType
+    {
+        None,
+        Cloth, // Ткань
+        Leather, // кожа
+        Mail, // кольчуга
+        Plate,// латы
+        Other// трини и кольца
+
+    }
+    public class LootItem
+    {
+        public string Name { get; set; } //имя предмета и т.д.
+        public string Image { get; set; }
+        public SlotType Slot { get; set; }
+        public MaterialType Material { get; set; }
+        public string Icon { get; set; }
+
+        List<LootItem> LootItems = new List<LootItem>();//создаем лист предметов
+        public LootItem() { }//конструктор, который не нужен здесь, но Генеральша не уверена
+        public LootItem(String Name, String Image, SlotType Slot, MaterialType Material, string Icon)
+        {
+            this.Name = Name;
+            this.Image = Image;
+            this.Slot = Slot;
+            this.Material = Material;
+            this.Icon = Icon;
+        }
+
+    }
+}
