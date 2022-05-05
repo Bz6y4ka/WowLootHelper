@@ -1,0 +1,46 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace KypcachSecondVersion
+{
+    public class Path//лист точек
+    {
+        public List<Point> PointList { get; }//полюшко, которое обозначает лист точек
+
+        public Path() 
+        {
+            this.PointList = new List<Point>();//инициализируем его пустым
+        }
+
+        public Path(List<Point> PointList)//создание листа точек
+        {
+            this.PointList = PointList;//создание листа точек
+        }
+
+        public void AddPoint(Point NextPoint)//создание точки, Point - класс(х,у на карте).
+        {
+            PointList.Add(NextPoint);//если нам приходит точка, то мы сохраняем ее в листе точек
+        }
+
+        public double CalculatePath()//расстояние между всеми точкам, сравниваю две точки рядом в моем пути и считаю сумму всех расстояний между точками
+        {
+            double Sum = 0;
+
+            for (int i = 0; i < PointList.Count - 1; ++i)//проходка по всем точкам
+            {
+                Sum += CalculateDistance(PointList[i], PointList[i + 1]);//считаю сумму расстояний между всеми точками    
+            }
+
+            return Sum;
+        }
+
+        private double CalculateDistance(Point a, Point b)
+        {
+            return Math.Sqrt(Math.Pow(a.x - b.x, 2) + Math.Pow(a.y - b.y, 2));//формула рассчета расстояния между двумя точками на плоскости
+        }
+
+    }
+}
