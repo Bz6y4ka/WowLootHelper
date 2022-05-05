@@ -1,0 +1,34 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Runtime.Serialization;
+
+
+namespace KypcachSecondVersion
+{
+    [Serializable] //Serializable - эта штука говорит, что этот класс можно записывать в файл, вычитываться из файла
+    public class Instance
+    {
+        public string Name { get; } 
+        public Boolean IsRaid { get; }
+        public Point Location { get; }
+        public string RaidIcon { get;  }
+        public string Description { get;  }
+
+        public List<BossLoot> LootByBosses { get; } //описывает всех боссов и их лут
+
+        public Instance(String Name, List<BossLoot> LootByBosses, Boolean IsRaid, Point Location, string RaidIcon, string Description)
+        {
+            this.Name = Name;
+            this.LootByBosses = LootByBosses;
+            this.IsRaid = IsRaid;
+            this.Location = Location;
+            this.RaidIcon = RaidIcon;
+            this.Description = Description;
+        }
+
+    }
+}
+
