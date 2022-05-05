@@ -1,0 +1,33 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace KypcachSecondVersion
+{
+    public class TSP
+    {
+        //result все посещенные точки
+        public void CalculatePaths(HashSet<Point> pointsToVisit, List<Point> visitedPoints, List<Path> result)//
+        {
+            if (pointsToVisit.Count == 0)//точки, которые нужно поситить
+            {
+                result.Add(new Path(new List<Point>(visitedPoints)));//посещенные точки
+            } 
+            else 
+            {
+                foreach (Point next in pointsToVisit)//проходимся по всем точкам, которые нам нужно посетить
+                {
+                    visitedPoints.Add(next);//добавляем в точки, которые уже посетили
+
+                    HashSet<Point> temp = new HashSet<Point>(pointsToVisit);//удаляяем из точек, которые нам нужно посетить, ту точку, в которую мы сейчас отправимся
+                    temp.Remove(next);
+                    CalculatePaths(temp, visitedPoints, result);//считаем путь для следующей точки
+
+                    visitedPoints.Remove(next);//удаляем точку из посещенных, т.к. сейчас проверяем следующие точки из pointsToVisit
+                }
+            }
+        }
+    }
+}
