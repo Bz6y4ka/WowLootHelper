@@ -1,0 +1,35 @@
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+
+namespace KypcachSecondVersion
+{
+    public class Point// чисто x и y на карте
+    {
+        public float x { get; }
+        public float y { get; }
+        public Point(float x, float y)
+        {
+            this.x = x;
+            this.y = y;
+        }
+
+        public override bool Equals(object obj)//проверкка по тому, как у меня сравниваются две точки(х одной точки равне х другой точки(у тоже самое))
+        {
+            Point other = obj as Point;
+
+            return other != null
+                && x == other.x
+                && y == other.y;
+        }
+
+        public override int GetHashCode()//упрощают поиск по элементу, можно не идти по всему массиву, а сразу по хэш-коду обращаться к элементу(в моем случае для работы структуры Set)
+        {
+            return x.GetHashCode() * 31 + y.GetHashCode();
+        }
+    }
+}
